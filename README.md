@@ -60,9 +60,9 @@ As a full stack developer, I have a comprehensive understanding of the web devel
 ![](https://github-readme-streak-stats.herokuapp.com/?user=azibabc121&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azibabc121&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<!--
+ 
 ### Badges
 
  <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/findusman"><img src="https://github-readme-stats.vercel.app/api?username=findusman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="findusman's GitHub stats" /></a> -->
+<a href="http://www.github.com/findusman"><img src="https://github-readme-stats.vercel.app/api?username=findusman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="findusman's GitHub stats" /></a> 
