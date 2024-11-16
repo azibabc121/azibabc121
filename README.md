@@ -87,8 +87,3 @@ From designing seamless user interfaces to building robust server-side architect
 ![](https://github-readme-stats.vercel.app/api?username=azibabc121&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=azibabc121&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azibabc121&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
- 
-### Badges
-
- 
