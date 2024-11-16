@@ -1,16 +1,17 @@
-Hi 👋 My name is Azib Rasheed
+Hi 👋 I'm Azib Rasheed
 ==============================
 
-Full Stack Developer
+Full Stack Developer | Web Architect
 --------------------
 
-As a full stack developer, I have a comprehensive understanding of the web development process, from the user interface to the server-side logic. I have experience working with a variety of front-end and back-end technologies, allowing me to design, develop and maintain web applications from start to finish.
+As a seasoned Full Stack Developer, I specialize in creating end-to-end web applications that are both scalable and efficient. With expertise across a diverse set of technologies—ranging from front-end frameworks like React and Vue to back-end systems with Node.js, Express, and NestJS—I take pride in crafting solutions that meet both user needs and business goals.
+
+From designing seamless user interfaces to building robust server-side architectures, I bring a comprehensive skill set to every project. Whether you're looking to build a dynamic web app or need an experienced developer to enhance your existing systems, I am well-equipped to deliver.
 
 
 * 🖥️  Checkout my  [Upwork](https://www.upwork.com/freelancers/~01d45321e18176c616) Profile
 * ✉️  You can contact me at [azibabc121@gmail.com](mailto:azibabc121@gmail.com)
-* 🧠  I'm learning Node.js and React
-* 🤝  I'm open to collaborating on interesting projects
+* 🤝 Open to collaboration on exciting projects and challenges
 
 ### Skills
 
