@@ -52,19 +52,32 @@ As a full stack developer, I have a comprehensive understanding of the web devel
 ### Socials
 
 <p align="left">
-  <a href="https://www.github.com/azibabc121" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" />
+  <!-- GitHub Icon -->
+  <a href="https://www.github.com/azibabc121" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img 
+      src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
+      width="32" height="32" alt="GitHub Icon" />
   </a>
-  <a href="https://www.instagram.com/azibrasheed/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="32" height="32" />
+  <!-- Instagram Icon -->
+  <a href="https://www.instagram.com/azibrasheed/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
+      width="32" height="32" alt="Instagram Icon" />
   </a>
-  <a href="https://www.linkedin.com/in/azib-rasheed" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="32" height="32" />
+  <!-- LinkedIn Icon -->
+  <a href="https://www.linkedin.com/in/azib-rasheed" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" 
+      width="32" height="32" alt="LinkedIn Icon" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~01d45321e18176c616" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" width="32" height="32" />
+  <!-- Upwork Icon -->
+  <a href="https://www.upwork.com/freelancers/~01d45321e18176c616" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img 
+      src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" 
+      width="32" height="32" alt="Upwork Icon" />
   </a>
 </p>
+
 
 
 
